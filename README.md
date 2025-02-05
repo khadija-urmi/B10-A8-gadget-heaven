@@ -1,9 +1,3 @@
-# Live Website
-
-Here is a sample `README.md` file based on the requirements you provided:
-
----
-
 # Project Name: Gadget Dashboard
 
 ## Live Website
