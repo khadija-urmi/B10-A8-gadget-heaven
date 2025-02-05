@@ -39,6 +39,6 @@ In addition, **Context API** can be used in future expansions to manage global s
 - **Tailwind CSS**: Utility-first CSS framework used for styling.
 - **Local Storage**: Used to store cart and wishlist data persistently.
 
-##Live Website Link : squalid-pin.surge.sh
+## Live Website Link : squalid-pin.surge.sh
 
 
