@@ -18,11 +18,10 @@ This project uses several core React concepts to create a smooth and efficient u
 - **State Management**: `useState` is used to manage local state within components, such as the active tab selection.
 - **Props**: Props are used to pass data and functions between components, enabling modular and organized code.
 - **Conditional Rendering**: The app conditionally renders components (e.g., Cart or Wishlist) based on the selected tab.
-- **useNavigation**:
- This hook is used for navigation handling, making it easier to navigate programmatically within the application, such as redirecting users to specific pages after an action.
+- **useNavigation**: This hook is used for navigation handling, making it easier to navigate programmatically within the application, such as redirecting users to specific pages after an action.
 - **useLoaderData**: This hook is used to load data asynchronously when the component mounts. For example, data for the Statistics chart is fetched and displayed using useLoaderData.
 
--**useParams**: This hook allows the app to access route parameters. It is helpful for dynamic routing, enabling the application to fetch specific item details based on unique identifiers passed in the URL.
+- **useParams**: This hook allows the app to access route parameters. It is helpful for dynamic routing, enabling the application to fetch specific item details based on unique identifiers passed in the URL.
 
 - **React Helmet**: The react-helmet-async library is used to manage the document head, enabling dynamic page titles for different sections like "Dashboard," "Cart," and "Wish List."
 
