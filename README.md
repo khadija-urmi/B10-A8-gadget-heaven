@@ -1,8 +1,4 @@
-# Project Name: Gadget Dashboard
-
-## Live Website
-
-## Overview
+# Gadget Dashboard
 
 Gadget Dashboard is a web application designed to help users explore and manage their favorite gadgets. The dashboard provides an interactive interface where users can switch between their Cart and Wishlist, view gadget statistics, and experience a visually appealing and responsive layout.
 
@@ -35,14 +31,6 @@ This project uses several core React concepts to create a smooth and efficient u
 The project uses **Local Storage** to persist data, allowing users to retain their cart and wishlist items across sessions. This approach makes the app user-friendly, as users can return to the website and find their previous selections intact.
 
 In addition, **Context API** can be used in future expansions to manage global state, making data management across components even more efficient.
-
-
-
-
-
-
-
-
 ## Technologies Used
 
 - **React**: Front-end library for building the user interface.
@@ -50,4 +38,7 @@ In addition, **Context API** can be used in future expansions to manage global s
 - **Recharts**: Library used for creating the statistics charts.
 - **Tailwind CSS**: Utility-first CSS framework used for styling.
 - **Local Storage**: Used to store cart and wishlist data persistently.
+
+##Live Website Link : squalid-pin.surge.sh
+
 
